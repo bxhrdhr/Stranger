@@ -1,0 +1,46 @@
+{
+    "title": "伊藤诚の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "伊藤诚,个人主页",
+    "author": "伊藤诚",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "伊藤诚",
+    "logo_text_2": "ytc",
+    "github": "haonan15",
+    "qq": "2191948066",
+    "email": "2191948066@qq.com",
+    "bilibili": "24049671",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://jianhan.cloud/12345678/grbk.html",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "https://blog.bywind.xyz/music/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://rubbort.github.io/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://blog.bywind.xyz/stars/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://rubbort.github.io/",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "Copyright_text": "伊藤诚",
+    "beian": "晋ICP备2023017784号"
+}
