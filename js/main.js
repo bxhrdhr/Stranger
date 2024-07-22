@@ -402,7 +402,7 @@ color: #425AEF;
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = '伊藤诚の主页'
+let title1 = '🤪😜🌈🎭🧩陌生人主页'
 let title2 = `
 
 ██████╗ ██╗   ██╗██╗    ██╗██╗███╗   ██╗██████╗ 
@@ -413,7 +413,7 @@ let title2 = `
 ╚═════╝    ╚═╝    ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝               
 `
 let content = `
-博客:  https://jianhan.cloud/12345678/grbk.html
+博客:  https://link3.cc/lgdmsr
 Github:  https://github.com/haonan15
 `
 console.log(`%c${title1} %c${title2}
